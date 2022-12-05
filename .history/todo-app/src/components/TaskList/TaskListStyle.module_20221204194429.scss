@@ -1,0 +1,15 @@
+.content {
+  width: 240px;
+  height: auto;
+  margin: 15px auto 0 auto;
+  .title {
+    margin-bottom: 10px;
+  }
+  .wrapContent {
+    .row {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+}

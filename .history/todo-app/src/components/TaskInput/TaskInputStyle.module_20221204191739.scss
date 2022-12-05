@@ -1,0 +1,16 @@
+.wrapTaskInput {
+  width: 240px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-between;
+  input {
+    padding: 3px 10px;
+    outline: none;
+    text-align: left;
+  }
+  button {
+    text-align: right;
+  }
+}

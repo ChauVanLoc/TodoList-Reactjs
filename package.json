@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:ChauVanLoc/TodoList-Reactjs.git",
   "author": "ChauVanLoc",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.56.1",
+    "scss": "^0.2.4"
+  }
 }

@@ -1,0 +1,22 @@
+.content {
+  width: 270px;
+  height: auto;
+  margin: 15px auto 0 auto;
+  .title {
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 23px;
+  }
+  .wrapContent {
+    .row {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      .toolBox {
+        button:nth-child(2) {
+          margin-left: 10px;
+        }
+      }
+    }
+  }
+}

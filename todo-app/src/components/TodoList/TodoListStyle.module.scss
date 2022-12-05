@@ -1,0 +1,15 @@
+.container {
+  width: 300px;
+  height: auto;
+  margin: 20px auto;
+  background-color: #fafafa;
+  border: 1px solid none;
+  border-radius: 5px;
+  padding: 20px 0;
+  .header {
+    width: 270px;
+    font-weight: bold;
+    font-size: 25px;
+    margin: 0 auto 15px auto;
+  }
+}

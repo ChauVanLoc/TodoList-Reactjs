@@ -1,0 +1,13 @@
+.content {
+  width: 240px;
+  height: auto;
+  margin: 0 auto;
+  .title {
+  }
+  .wrapContent {
+    .row {
+      display: flex;
+      flex-direction: row;
+    }
+  }
+}
